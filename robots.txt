@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecukouxa.github.io/QEO/sitemap_index.txt
+Sitemap: https://ecukouxa.github.io/ZeT/sitemap_index.txt
+Sitemap: https://ecukouxa.github.io/sPQ/sitemap_index.txt
+Sitemap: https://ecukouxa.github.io/urY/sitemap_index.txt
